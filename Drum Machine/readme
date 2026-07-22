@@ -1,0 +1,6 @@
+ picture
+ 
+ build nine buttons, each wrapping a hidden sound 
+ file. Then write JS so that either clicking 
+ a button or pressing its matching key plays that 
+ sound and updates a text display.
